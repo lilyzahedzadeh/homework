@@ -1,0 +1,10 @@
+How do I create a hidden file or folder?
+add a dot at the biginning of the name
+
+How do I display it in the CLI?
+mkdir -p -- a/foo b/bar a/baz
+How do I append a message to a file, without a newline character, so the output would be:
+echo -n "blah blah" >> a.txt
+
+
+
